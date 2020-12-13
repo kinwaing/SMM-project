@@ -5,10 +5,10 @@ In this project we make use of a Diffusion Convolutional Recurrent Neural Networ
 Jupyter Notebooks containing the code for data analysis, graph constructions, and file generation needed for DCRNN can be found in Data-Analysis folder.
 
 ml_input<br>
-└── cpec
-    ├── cpec_infoids.txt
-    └── twitter
-        ├── global
+└── cpec<br>
+    ├── cpec_infoids.txt<br>
+    └── twitter<br>
+        ├── global<br>
         ├── local
         │   ├── news_counts_overtime_day.pkl.gz
         │   └── reddit_counts_overtime_day.pkl.gz
